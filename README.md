@@ -1,1 +1,1 @@
-# Very Simple Human Sort in Java
+# Very simple human sort/Bubble sort
