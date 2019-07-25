@@ -1,1 +1,1 @@
-# Very simple human sort/Bubble sort
+# Very simple human sort/bubble sort
