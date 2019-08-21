@@ -1,4 +1,4 @@
-// ---> https://coderwall.com/p/ssdcua/bubble-sort-in-ruby
+# ---> https://coderwall.com/p/ssdcua/bubble-sort-in-ruby
 
 def bubble_sort(array)
    n = array.length
