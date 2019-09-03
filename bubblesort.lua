@@ -1,5 +1,3 @@
-#https://gist.github.com/hoffoo/b420d1ecc60ad6ec44e5
-
 local array = {1,2,0,0,3,1,2}
 
 function swap(a, b, table)
